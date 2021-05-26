@@ -1,0 +1,4 @@
+andres,adios, pepe, juan, lola, lola, jesus, antonio, andres, juan,
+Perico, Pedro, Perico, andres, jesus, lola, hola, arsenio, hola,
+todo, nada, alli, despues, adios, todo, nada, hola, jesus, pepe,
+andres, antonio, Perico, Pedro, alejandro
